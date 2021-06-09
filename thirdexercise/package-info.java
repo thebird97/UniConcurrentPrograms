@@ -6,4 +6,4 @@
  * @author Bird
  * @version 1.0
  */
-package secondexercise;
+package thirdexercise;

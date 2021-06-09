@@ -1,23 +1,17 @@
-# Readme file for second exercise
+# Readme file for third exercise
 
 ### First task:
-* Revision
+* Make two threads, that make 10-10 more threads
+* That write out hello1... etc. and world1... etc.
+
 
 
 ### Second task
 
-* Pause threads check variables and rewrite variables and group the threads using IDE
-* Using VirtualVM
 
 ### Third task
-* Thread priority
+
 
 ### Fourth
-Make threads with different methods:
--  runnable
--  threadwithlambda
--  threadwithreference
--  threadWithRunnable
--  threadDescend
 
 ### Fifth
