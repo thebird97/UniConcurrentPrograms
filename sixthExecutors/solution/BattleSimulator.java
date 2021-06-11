@@ -1,4 +1,4 @@
-package concurrent.labs;
+package sixthExecutors.solution;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -30,6 +30,7 @@ public class BattleSimulator {
         // Advice: use scheduled executor
 
         // Waiting until we have a couple of soldiers on both sides
+        System.out.println("Battle Sim");
         sleepForMsec(5000);
         hasStarted.set(true);
 

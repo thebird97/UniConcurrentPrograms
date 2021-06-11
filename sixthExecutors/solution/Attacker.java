@@ -1,4 +1,6 @@
-package concurrent.labs;
+package sixthExecutors.solution;
+
+import concurrent.labs.Soldier;
 
 import java.util.Objects;
 
