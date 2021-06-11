@@ -1,25 +1,14 @@
-# Readme file for first exercise
+# Readme file for fifth exercise
+
+Wait-notify
+<p>
+The `wait()` and `notify()` methods are designed to provide a mechanism to allow a thread to block until a specific condition is met. For this I assume you're wanting to write a blocking queue implementation, where you have some fixed size backing-store of elements.
+
+The first thing you have to do is to identify the conditions that you want the methods to wait for. In this case, you will want the put() method to block until there is free space in the store, and you will want the take() method to block until there is some element to return.
 
 ### First task: 
-* Make two threads
-* The threads write out: hello 1, hello 2 ... hello 100 000 and world 1 .... 100 000
-* Check the outputs
-* First not concurrent
-
+* Simple example
 ### Second task
+* Vaccination task
 
-* I have an array with texts
-* All the text in the array need its own thread
 
-### Third task
-* Write the output to a file with PrintWriter
-* Close the file after the write!
-
-### Fourth
-
-* Same as third 
-
-### Fifth
-* Method that works like print line
-* @param text and text one-one characters
-* after that endline
